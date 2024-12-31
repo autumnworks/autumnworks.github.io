@@ -1,0 +1,12 @@
+html {
+    background-color:rgb(230, 205, 158);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    color: maroon;
+}
+
+a:visited {
+    color:darkslategray;
+}
