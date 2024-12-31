@@ -6,9 +6,12 @@ html {
 
 .WorkshopTool {
     border: 5px outset black;
+    align-content: center;
+    inset: 1em;
 }
 
 .WorkshopTool img {
+    align-self: center;
     width: 80%;
     height: 80%;
 }
